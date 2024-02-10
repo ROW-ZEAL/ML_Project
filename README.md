@@ -9,13 +9,7 @@ The dataset used for this project is the SMS Spam Collection available at [UCI M
 
 
 
-## Usage
-1. Train the model by running the `train.py` script:
-    ```bash
-    python train.py
-    ```
 
-2. The output will indicate whether the input message is classified as spam or ham.
 
 ## Model Evaluation
 The model's performance can be evaluated using metrics such as accuracy, precision, recall, and F1-score. These metrics are calculated during training and printed out at the end of the `train.py` script.
